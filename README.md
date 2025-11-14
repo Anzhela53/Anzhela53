@@ -1,4 +1,4 @@
-[Header](https://github.com/Anzhela53/Anzhela53/blob/main/assets/AGLKV.png)
+[![Header](https://github.com/Anzhela53/Anzhela53/blob/main/assets/AGLKV.png)](https://t.me/anzhelo)
 ## About me
 
 ## Language and Tools 📜
@@ -11,4 +11,4 @@
 - HTML, CSS
 -->
 
-## Falloe Me
+## Fallow Me
