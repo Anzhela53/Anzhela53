@@ -1,16 +1,15 @@
-## Hi there 👋
+## Header
+
+## About me
+
+## Language and Tools 📜
 
 <!--
-**Anzhela53/Anzhela53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web technologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Software Testing from Scratch (Course Author: Artem Ledosov)
+  ([Certified](https://))
+- HTML, CSS
 -->
+
+## Falloe Me
